@@ -18,3 +18,4 @@ This is the project on shell redirections. The scripts and what they do are stat
 16-whatsnext: print matching line and n lines after
 17-hidethisword: print lines not matching pattern.
 18-letteronly: match lines staarting with pattern
+19-AZ: character replace
