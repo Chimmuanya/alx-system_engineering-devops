@@ -12,3 +12,4 @@ This is the project on shell redirections. The scripts and what they do are stat
 10-no_more_js: delete files of a particular type from directory and its subdirectories
 11-directories: count all the directories and  subdirectories in a folder.
 12-newest_files: list 10 newest files in a directory
+13-unique: print only unique lines
