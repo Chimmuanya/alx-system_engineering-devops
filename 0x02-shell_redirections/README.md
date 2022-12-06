@@ -14,3 +14,4 @@ This is the project on shell redirections. The scripts and what they do are stat
 12-newest_files: list 10 newest files in a directory
 13-unique: print only unique lines
 14-findthatword: using patterns to find matching lines.
+15-countthatword: count number of lines matching pattern.
