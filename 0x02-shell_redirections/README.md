@@ -11,3 +11,4 @@ This is the project on shell redirections. The scripts and what they do are stat
 9-duplicate_last_line: shell script to duplicate the last line of a text file.
 10-no_more_js: delete files of a particular type from directory and its subdirectories
 11-directories: count all the directories and  subdirectories in a folder.
+12-newest_files: list 10 newest files in a directory
