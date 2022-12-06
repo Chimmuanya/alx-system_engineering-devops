@@ -6,3 +6,4 @@ This is the project on shell redirections. The scripts and what they do are stat
 4-lastlines: using the tail command
 5-firstlines: using the head command
 6-third_line: reading nth file without sed
+7-file: escaping special characters.
