@@ -16,3 +16,4 @@ This is the project on shell redirections. The scripts and what they do are stat
 14-findthatword: using patterns to find matching lines.
 15-countthatword: count number of lines matching pattern.
 16-whatsnext: print matching line and n lines after
+17-hidethisword: print lines not matching pattern.
