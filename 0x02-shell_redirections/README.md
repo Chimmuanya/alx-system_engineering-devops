@@ -15,3 +15,4 @@ This is the project on shell redirections. The scripts and what they do are stat
 13-unique: print only unique lines
 14-findthatword: using patterns to find matching lines.
 15-countthatword: count number of lines matching pattern.
+16-whatsnext: print matching line and n lines after
