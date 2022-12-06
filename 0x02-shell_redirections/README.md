@@ -20,3 +20,4 @@ This is the project on shell redirections. The scripts and what they do are stat
 18-letteronly: match lines staarting with pattern
 19-AZ: character replace
 20-hiago: delete particular characters from input
+21-reverse: reverse characterwise
