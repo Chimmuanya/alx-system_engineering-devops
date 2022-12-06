@@ -22,3 +22,4 @@ This is the project on shell redirections. The scripts and what they do are stat
 20-hiago: delete particular characters from input
 21-reverse: reverse characterwise
 22-users_and_homes: displays users and home directory sorted
+100-empty_casks: list all empty folders and subfolders and files
