@@ -4,3 +4,4 @@ This is the project on shell redirections. The scripts and what they do are stat
 2-hellofile: display the conteny of /etc/passwd file
 3-twofiles: concatenate two files to stdout
 4-lastlines: using the tail command
+5-firstlines: using the head command
