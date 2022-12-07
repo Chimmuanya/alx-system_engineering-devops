@@ -1,2 +1,2 @@
 #!/bin/bash
-emacs $((128 + "$TRUEKNOWLEDGE"))
+emacs $(($TRUEKNOWLEDGE + 128))
