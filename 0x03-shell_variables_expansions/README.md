@@ -6,3 +6,4 @@ This project solves questions on bash alias, arithmetic, command expansions, etc
 4-global_variables: print global variables
 5-local_variables: print local variables
 7-create_global_variable: create global variable
+8-true_knowledge: arithmetic operation
