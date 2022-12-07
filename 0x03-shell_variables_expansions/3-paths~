@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PATH | grep -o ":/" | wc -l >> ans | echo $((ans + 1))
