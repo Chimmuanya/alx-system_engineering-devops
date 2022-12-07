@@ -5,3 +5,4 @@ This project solves questions on bash alias, arithmetic, command expansions, etc
 3-paths: count directories in PATH
 4-global_variables: print global variables
 5-local_variables: print local variables
+7-create_global_variable: create global variable
